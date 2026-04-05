@@ -1,0 +1,19 @@
+# Ignore all contents inside raw data
+data/ds005385/*
+!data/ds005385/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
