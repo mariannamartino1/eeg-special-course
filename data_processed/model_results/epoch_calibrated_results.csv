@@ -1,0 +1,4 @@
+setting,model_name,feature_set,n_epochs,n_participants,n_recordings,accuracy,balanced_accuracy,ci_lower,ci_upper,notes
+epoch_calibrated,epoch_median_oz_alpha,oz_alpha_log,6988,607,1208,0.8757870635374928,0.8759652693119404,0.8586375005631609,0.8922728287076961,Participant-specific median threshold. Epochs above median predicted as EC.
+epoch_calibrated,epoch_median_occipital_alpha,occipital_alpha_log,6988,607,1208,0.8846594161419576,0.8848391600141571,0.867978613662832,0.900683104701939,Participant-specific median threshold. Epochs above median predicted as EC.
+epoch_calibrated,epoch_median_posterior_alpha,posterior_alpha_log,6988,607,1208,0.8823697767601603,0.8825491237039076,0.866088725415682,0.8982145867527341,Participant-specific median threshold. Epochs above median predicted as EC.

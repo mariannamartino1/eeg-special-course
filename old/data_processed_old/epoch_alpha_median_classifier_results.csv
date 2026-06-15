@@ -1,0 +1,4 @@
+channel_set,accuracy,n_epochs,n_participants,n_correct,n_incorrect
+oz,0.8596921400354175,7341,608,6311,1030
+occipital,0.8795804386323389,7341,608,6457,884
+posterior,0.8820324206511374,7341,608,6475,866

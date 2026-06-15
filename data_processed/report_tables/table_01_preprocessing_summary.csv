@@ -1,0 +1,12 @@
+Quantity,Value
+Participants,608.0
+Recordings,1216.0
+Included recordings,1208.0
+Excluded recordings,8.0
+Complete EO–EC pairs before exclusion,608.0
+Complete EO–EC pairs after exclusion,601.0
+Extracted 30-second epochs,7341.0
+Retained 30-second epochs,6988.0
+Mean retained epochs per recording,5.75
+Median retained epochs per recording,6.0
+Mean retained fraction,0.953
