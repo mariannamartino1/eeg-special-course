@@ -1,4 +1,4 @@
-# EEG Special Course Code
+# Resting-state EEG Analysis for Diagnostic Purposes - Code
 
 This repository contains the code used to analyze eyes-open (EO) and eyes-closed (EC) resting-state EEG recordings.
 
