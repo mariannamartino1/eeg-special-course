@@ -9,7 +9,7 @@ The EEG data come from the **Dortmund Vital Study resting-state EEG dataset**:
 Getzmann et al. (2024), *Scientific Data*  
 https://www.nature.com/articles/s41597-024-03797-w
 
-The raw data are not included in this repository.
+The raw data are not included in this repository - although locally are in 'data/'.
 
 ## Repository structure
 
